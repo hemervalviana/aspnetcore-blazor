@@ -1,0 +1,18 @@
+## .NET
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## Publish
+publish/
+wwwroot/dist/
+
+## Node
+node_modules/
+
+## Logs
+*.log
